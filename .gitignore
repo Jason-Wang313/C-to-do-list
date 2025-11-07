@@ -1,0 +1,9 @@
+# Ignore the compiled executable
+todo
+todo.exe
+
+# Ignore the task data file
+tasks.txt
+
+# Ignore object files
+*.o
